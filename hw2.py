@@ -3,9 +3,6 @@
 
 from enum import Enum
 
-class InvalidDirection(Exception):
-    pass
-
 class Environment(object):
     def __init__(self, n_room, shape, dirt_placement):
         self.n_room = n_room # a number of rooms
