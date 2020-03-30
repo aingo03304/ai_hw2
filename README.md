@@ -8,7 +8,7 @@ Implement a performance-measuring environment simulator for the vacuum-cleaner w
 
 ## Environment
 Environment class contains followings
-- a number of rooms
+- the number of rooms
 - a shape of rooms
 - dirt placement
 - current status of rooms
